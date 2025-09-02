@@ -8,6 +8,7 @@ class Utility{
         System.out.println();
     }
 }
+
 public class GenricMethodExample {
     public static void main(String[] args) {
         Integer[] arr = new Integer[]{1 , 5 , 6};

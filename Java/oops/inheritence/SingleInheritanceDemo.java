@@ -17,4 +17,5 @@ public class SingleInheritanceDemo {
         dog.eat();//Inherited method
 
     }
+
 }

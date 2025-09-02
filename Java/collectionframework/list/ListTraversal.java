@@ -1,10 +1,10 @@
-package collectionframework;
+package collectionframework.list;
 
 import java.util.*;
 
 public class ListTraversal {
-    public static void main(String[] args) {
-        // ✅ Use ArrayList to allow modifications
+    public static void main(String[] args) {// ✅ Use ArrayList to allow modifications
+
         List<Integer> arrList = new ArrayList<>(Arrays.asList(10, 20, 30, 40));
         ListIterator<Integer> listIterator = arrList.listIterator();
 

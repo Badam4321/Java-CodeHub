@@ -1,6 +1,5 @@
-package collectionframework;
+package collectionframework.list.arrlist;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class ArrayDemo {
